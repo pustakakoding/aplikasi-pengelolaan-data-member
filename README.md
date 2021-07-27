@@ -14,14 +14,14 @@ Aplikasi ini dibangun dengan :
 # Deskripsi Aplikasi
 Aplikasi ini merupakan contoh studi kasus sederhana yang menerapkan operasi dasar seperti Create, Read, Update, Delete, dan masih banyak lagi lainnya yang wajib diketahui oleh setiap programmer karena akan selalu digunakan dalam membangun sebuah sistem.
 
-1. Dashboard
-Halaman Dashboard berisi informasi jumlah data member yang ditampilkan per jenis member, yaitu Jumlah Data Member Gratis, Data Member Pelajar, Data Member Personal, dan Data Member Bisnis.
+1. Dashboard,
+Halaman yang berisi informasi jumlah data member yang ditampilkan per jenis member, yaitu Jumlah Data Member Gratis, Data Member Pelajar, Data Member Personal, dan Data Member Bisnis.
 
-2. Data Member
+2. Data Member,
 Halaman untuk mengelola data member. Pada halaman ini pengguna dapat menginput, mengubah, menghapus, mencari data, dan menampilkan detail data member.
 
-3. Laporan
+3. Laporan,
 Halaman untuk menampilkan dan mencetak laporan data member. Pada halaman ini pengguna dapat menampilkan laporan data member per periode (per hari, per minggu, per bulan, dan per tahun). Laporan dapat dicetak ke dalam format PDF.
 
-4. Tentang Aplikasi
+4. Tentang Aplikasi,
 Halaman yang berisi informasi tentang aplikasi.
