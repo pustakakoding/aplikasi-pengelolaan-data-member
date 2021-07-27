@@ -2,8 +2,8 @@
 // deklarasi parameter koneksi database
 $host     = "localhost"; 			// server database, default “localhost” atau “127.0.0.1”
 $username = "root"; 				// username database, default “root”
-$password = "root"; 				// password database, default kosong
-$database = "pusko_member_free"; 	// memilih database yang akan digunakan
+$password = ""; 					// password database, default kosong
+$database = "db_member"; 			// memilih database yang akan digunakan
 
 // buat koneksi database
 $mysqli = mysqli_connect($host, $username, $password, $database);
