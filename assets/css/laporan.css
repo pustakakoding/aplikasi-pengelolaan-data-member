@@ -1,0 +1,65 @@
+body {
+  font-family: poppins, sans-serif;
+  color: #34364a;
+  background-color: #fff;
+  font-size: 15px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+}
+
+hr {
+  margin-top: 1.5rem;
+  margin-bottom: 1.7rem;
+  border: 0;
+  border-top: 2px solid #e3e6f0;
+}
+
+.text-left {
+  text-align: left !important;
+}
+
+.text-right {
+  text-align: right !important;
+}
+
+.text-center {
+  text-align: center !important;
+}
+
+.table th {
+  padding: 0.5rem;
+  background-color: #6c757d;
+  color: #fff;
+}
+
+.table td {
+  padding: 0.45rem;
+}
+
+.table-bordered {
+  border: 1px solid #e3e6f0;
+}
+
+.table-bordered th,
+.table-bordered td {
+  border: 1px solid #e3e6f0;
+}
+
+.mt-5 {
+  margin-top: 2rem;
+}
+
+.foto-profil {
+  width: 75px;
+  border: 1px solid #dee2e6;
+  border-radius: 0.25rem !important;
+}
